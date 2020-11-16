@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Thomas Winzen</title>
+    <link>https://thomaswinzen.github.io/publication-type/5/</link>
+      <atom:link href="https://thomaswinzen.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas Winzen</copyright><lastBuildDate>Sun, 06 Dec 2020 12:33:24 +0000</lastBuildDate>
+    <image>
+      <url>https://thomaswinzen.github.io/images/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_2.png</url>
+      <title>5</title>
+      <link>https://thomaswinzen.github.io/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title> The Rise of International Parliaments: Strategic Legitimation in International Organizations</title>
+      <link>https://thomaswinzen.github.io/publication/schimmelfennig2020rise/</link>
+      <pubDate>Sun, 06 Dec 2020 12:33:24 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/schimmelfennig2020rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ever Looser Union? Differentiated European Integration</title>
+      <link>https://thomaswinzen.github.io/publication/schimmelfennig2020ever/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/schimmelfennig2020ever/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitutional preferences and parliamentary reform: Explaining national parliaments’ adaptation to European integration</title>
+      <link>https://thomaswinzen.github.io/publication/winzen-constitutional-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/winzen-constitutional-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

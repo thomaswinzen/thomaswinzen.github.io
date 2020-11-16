@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parliaments | Thomas Winzen</title>
+    <link>https://thomaswinzen.github.io/tag/parliaments/</link>
+      <atom:link href="https://thomaswinzen.github.io/tag/parliaments/index.xml" rel="self" type="application/rss+xml" />
+    <description>parliaments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Thomas Winzen</copyright><lastBuildDate>Sat, 07 Nov 2020 12:23:53 +0000</lastBuildDate>
+    <image>
+      <url>https://thomaswinzen.github.io/images/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_2.png</url>
+      <title>parliaments</title>
+      <link>https://thomaswinzen.github.io/tag/parliaments/</link>
+    </image>
+    
+    <item>
+      <title>Parliaments Beyond the State</title>
+      <link>https://thomaswinzen.github.io/project/parliaments/</link>
+      <pubDate>Sat, 07 Nov 2020 12:23:53 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/project/parliaments/</guid>
+      <description>&lt;p&gt;Can parliaments contribute to democratic and legitimate governance in the European Union and international organizations? When and why can we expect political actors to realize the democratic potential that parliaments might have? If they do, what are the political and policy consequences?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National Parliaments in the EU Dataset (NPdata)</title>
+      <link>https://thomaswinzen.github.io/datasets/npdata/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/datasets/npdata/</guid>
+      <description>&lt;p&gt;Description to be added&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
