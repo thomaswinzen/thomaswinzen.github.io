@@ -5,7 +5,7 @@
     <link>https://thomaswinzen.github.io/tag/npdata/</link>
       <atom:link href="https://thomaswinzen.github.io/tag/npdata/index.xml" rel="self" type="application/rss+xml" />
     <description>npdata</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Thomas Winzen</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Thomas Winzen</copyright><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thomaswinzen.github.io/images/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_2.png</url>
       <title>npdata</title>
@@ -13,12 +13,30 @@
     </image>
     
     <item>
+      <title>The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects</title>
+      <link>https://thomaswinzen.github.io/publication/winzen-npreview-2021/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/winzen-npreview-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>National Parliaments in the EU Dataset (NPdata)</title>
       <link>https://thomaswinzen.github.io/datasets/npdata/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://thomaswinzen.github.io/datasets/npdata/</guid>
       <description>&lt;p&gt;The National Parliaments in the European Union Dataset (NPdata) codes formal rights and mechanisms for parliamentary involvement in EU affairs from 1952 to 2020. It contains information on oversight institutions, which specify parliamentary information and participation rights in relation to the government’s involvement in EU policymaking. NPdata also includes information on parliamentary rights in the European Semester (ES) and decision-making of the European Stability Mechanism (ESM).&lt;/p&gt;
-&lt;p&gt;The data will become available under the link above soon. Please email me if you would like to use the data before it becomes public.&lt;/p&gt;
+&lt;p&gt;The data is available via &lt;a href=&#34;https://dataverse.harvard.edu/dataverse/npdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Dataverse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you use the data on oversight institutions, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-national-2012/&#34;&gt;Winzen (2012)&lt;/a&gt; for data before 2010 and &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt; for data from 2010-2020.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Winzen, Thomas. 2012. National Parliamentary Control of European Union Affairs: A Cross-National and Longitudinal Comparison. &lt;em&gt;West European Politics&lt;/em&gt; 35 (3): 657–72.&lt;/li&gt;
+&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you use the data on parliamentary rights in the ES and ESM, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/rittberger-parlamentarismus-2015/&#34;&gt;Rittberger and Winzen (2015)&lt;/a&gt; or &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rittberger, Berthold, and Thomas Winzen. 2015. Parlamentarismus Nach Der Krise: Die Vertiefung Parlamentarischer Asymmetrie in Der Reformierten Wirtschafts- Und Währungsunion. &lt;em&gt;Politische Vierteljahresschrift&lt;/em&gt; 56 (3): 430–56.&lt;/li&gt;
+&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
