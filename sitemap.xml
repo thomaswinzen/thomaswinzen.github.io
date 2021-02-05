@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://thomaswinzen.github.io/tag/parliaments/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thomaswinzen.github.io/publication_types/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -103,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://thomaswinzen.github.io/tag/parliaments/</loc>
+    <lastmod>2021-01-26T15:01:09+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thomaswinzen.github.io/project/parliaments/</loc>
     <lastmod>2020-11-07T12:23:53+00:00</lastmod>
   </url>
@@ -118,17 +118,7 @@
   </url>
   
   <url>
-    <loc>https://thomaswinzen.github.io/tag/internet/</loc>
-    <lastmod>2020-11-06T12:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thomaswinzen.github.io/project/internet/</loc>
-    <lastmod>2020-11-06T12:23:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/author/winzen/</loc>
     <lastmod>2020-11-06T12:23:48+00:00</lastmod>
   </url>
   
@@ -342,10 +332,6 @@
   
   <url>
     <loc>https://thomaswinzen.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/author/t./</loc>
   </url>
   
 </urlset>
