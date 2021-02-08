@@ -21,6 +21,52 @@
     </item>
     
     <item>
+      <title>International Parliamentary Institutions Dataset (IPIdata)</title>
+      <link>https://thomaswinzen.github.io/datasets/ipidata/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/datasets/ipidata/</guid>
+      <description>&lt;p&gt;The International Parliamentary Institutions Dataset (IPIdata) codes information on the institutional authority and organization of 54 international parliamentary institutions (IPIs) from 1945 to 2019. The data collection was funded by the Swiss National Science Foundation via the NCCR Democracy. The data and documentation is available via the link above. Please email me or one of the other authors if you have questions.&lt;/p&gt;
+&lt;p&gt;If you use the data in your research, please cite:&lt;/p&gt;
+&lt;p&gt;Schimmelfennig, Frank, Thomas Winzen, Tobias Lenz, Jofre Rocabert, Lori Crasnic, Cristina Gherasimov, Jana Lipps, and Densua Mumford. 2020. &lt;em&gt;The Rise of International Parliaments: Strategic Legitimation in International Organizations&lt;/em&gt;. Oxford: Oxford University Press.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>National Parliaments in the EU Dataset (NPdata)</title>
+      <link>https://thomaswinzen.github.io/datasets/npdata/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/datasets/npdata/</guid>
+      <description>&lt;p&gt;The National Parliaments in the European Union Dataset (NPdata) codes formal rights and mechanisms for parliamentary involvement in EU affairs from 1952 to 2020. It contains information on oversight institutions, which specify parliamentary information and participation rights in relation to the government’s involvement in EU policymaking. NPdata also includes information on parliamentary rights in the European Semester (ES) and decision-making of the European Stability Mechanism (ESM).&lt;/p&gt;
+&lt;p&gt;The data is available via &lt;a href=&#34;https://dataverse.harvard.edu/dataverse/npdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Dataverse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you use the data on oversight institutions, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-national-2012/&#34;&gt;Winzen (2012)&lt;/a&gt; for data before 2010 and &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt; for data from 2010-2020.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Winzen, Thomas. 2012. National Parliamentary Control of European Union Affairs: A Cross-National and Longitudinal Comparison. &lt;em&gt;West European Politics&lt;/em&gt; 35 (3): 657–72.&lt;/li&gt;
+&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you use the data on parliamentary rights in the ES and ESM, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/rittberger-parlamentarismus-2015/&#34;&gt;Rittberger and Winzen (2015)&lt;/a&gt; or &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rittberger, Berthold, and Thomas Winzen. 2015. Parlamentarismus Nach Der Krise: Die Vertiefung Parlamentarischer Asymmetrie in Der Reformierten Wirtschafts- Und Währungsunion. &lt;em&gt;Politische Vierteljahresschrift&lt;/em&gt; 56 (3): 430–56.&lt;/li&gt;
+&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differentiated European integration (EUDIFF1 &amp; EUDIFF2)</title>
+      <link>https://thomaswinzen.github.io/datasets/didata/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/datasets/didata/</guid>
+      <description>&lt;p&gt;The EUDIFF1 dataset codes differentiation in EU treaties from 1952-2020. The EUDIFF2 dataset codes differentiation in EU legislation from 1958-2018. These datasets have not been released publicly yet. Please contact me or the other authors for information. The data collection was funded by the German Research Foundation (DFG) and the Swiss National Science Foundation (SNSF) (project leaders: Katharina Holzinger and Frank Schimmelfennig).&lt;/p&gt;
+&lt;p&gt;For articles introducing and analyzing these datasets, see  &lt;a href=&#34;https://thomaswinzen.github.io/publication/schimmelfennig-instrumental-2014/&#34;&gt;Schimmelfennig and Winzen (2014)&lt;/a&gt; and &lt;a href=&#34;https://thomaswinzen.github.io/publication/duttle-opting-2017/&#34;&gt;Duttle et al. (2017)&lt;/a&gt;. For a broader study of differentiated integration as well as analyses of the most recent versions of EUDIFF1 and EUDIFF2, see &lt;a href=&#34;https://thomaswinzen.github.io/publication/schimmelfennig2020ever/&#34;&gt;Schimmelfennig and Winzen (2020)&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Duttle, Thomas, Katharina Holzinger, Thomas Malang, Thomas Schäubli, Frank Schimmelfennig, and Thomas Winzen. 2017. ‘Opting out from European Union Legislation: The Differentiation of Secondary Law’. &lt;em&gt;Journal of European Public Policy&lt;/em&gt; 24 (3): 406–28. &lt;a href=&#34;https://doi.org/10.1080/13501763.2016.1149206&#34;&gt;https://doi.org/10.1080/13501763.2016.1149206&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Schimmelfennig, Frank, and Thomas Winzen. 2014. ‘Instrumental and Constitutional Differentiation in the European Union’. &lt;em&gt;Journal of Common Market Studies&lt;/em&gt; 52 (2): 354–70. &lt;a href=&#34;https://doi.org/10.1111/jcms.12103&#34;&gt;https://doi.org/10.1111/jcms.12103&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Schimmelfennig, Frank, and Thomas Winzen. 2020. &lt;em&gt;Ever Looser Union? Differentiated Integration&lt;/em&gt;. Oxford: Oxford University Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title> The Rise of International Parliaments: Strategic Legitimation in International Organizations</title>
       <link>https://thomaswinzen.github.io/publication/schimmelfennig2020rise/</link>
       <pubDate>Sun, 06 Dec 2020 12:33:24 +0000</pubDate>
@@ -141,37 +187,6 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://thomaswinzen.github.io/publication/winzen-explaining-2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>International Parliamentary Institutions Dataset (IPIdata)</title>
-      <link>https://thomaswinzen.github.io/datasets/ipidata/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/datasets/ipidata/</guid>
-      <description>&lt;p&gt;The International Parliamentary Institutions Dataset (IPIdata) codes information on the institutional authority and organization of 54 international parliamentary institutions (IPIs) from 1945 to 2019. The data collection was funded by the Swiss National Science Foundation via the NCCR Democracy. The data and documentation is available via the link above. Please email me or one of the other authors if you have questions.&lt;/p&gt;
-&lt;p&gt;If you use the data in your research, please cite:&lt;/p&gt;
-&lt;p&gt;Schimmelfennig, Frank, Thomas Winzen, Tobias Lenz, Jofre Rocabert, Lori Crasnic, Cristina Gherasimov, Jana Lipps, and Densua Mumford. 2020. &lt;em&gt;The Rise of International Parliaments: Strategic Legitimation in International Organizations&lt;/em&gt;. Oxford: Oxford University Press.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>National Parliaments in the EU Dataset (NPdata)</title>
-      <link>https://thomaswinzen.github.io/datasets/npdata/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/datasets/npdata/</guid>
-      <description>&lt;p&gt;The National Parliaments in the European Union Dataset (NPdata) codes formal rights and mechanisms for parliamentary involvement in EU affairs from 1952 to 2020. It contains information on oversight institutions, which specify parliamentary information and participation rights in relation to the government’s involvement in EU policymaking. NPdata also includes information on parliamentary rights in the European Semester (ES) and decision-making of the European Stability Mechanism (ESM).&lt;/p&gt;
-&lt;p&gt;The data is available via &lt;a href=&#34;https://dataverse.harvard.edu/dataverse/npdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Dataverse&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you use the data on oversight institutions, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-national-2012/&#34;&gt;Winzen (2012)&lt;/a&gt; for data before 2010 and &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt; for data from 2010-2020.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Winzen, Thomas. 2012. National Parliamentary Control of European Union Affairs: A Cross-National and Longitudinal Comparison. &lt;em&gt;West European Politics&lt;/em&gt; 35 (3): 657–72.&lt;/li&gt;
-&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you use the data on parliamentary rights in the ES and ESM, please cite &lt;a href=&#34;https://thomaswinzen.github.io/publication/rittberger-parlamentarismus-2015/&#34;&gt;Rittberger and Winzen (2015)&lt;/a&gt; or &lt;a href=&#34;https://thomaswinzen.github.io/publication/winzen-npreview-2021/&#34;&gt;Winzen (2021)&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rittberger, Berthold, and Thomas Winzen. 2015. Parlamentarismus Nach Der Krise: Die Vertiefung Parlamentarischer Asymmetrie in Der Reformierten Wirtschafts- Und Währungsunion. &lt;em&gt;Politische Vierteljahresschrift&lt;/em&gt; 56 (3): 430–56.&lt;/li&gt;
-&lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>

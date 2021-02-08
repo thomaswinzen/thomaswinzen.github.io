@@ -48,6 +48,46 @@
   </url>
   
   <url>
+    <loc>https://thomaswinzen.github.io/datasets/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/datasets/ipidata/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/tag/ipidata/</loc>
+    <lastmod>2020-12-06T12:33:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/tag/parliaments/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/datasets/npdata/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/datasets/didata/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/tag/eudiff/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thomaswinzen.github.io/tag/integration/</loc>
+    <lastmod>2020-11-06T12:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thomaswinzen.github.io/publication/schimmelfennig2020rise/</loc>
     <lastmod>2020-12-06T12:33:24+00:00</lastmod>
   </url>
@@ -73,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://thomaswinzen.github.io/tag/ipidata/</loc>
-    <lastmod>2021-01-26T15:01:09+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thomaswinzen.github.io/author/jana-lipps/</loc>
     <lastmod>2020-12-06T12:33:24+00:00</lastmod>
   </url>
@@ -95,11 +130,6 @@
   <url>
     <loc>https://thomaswinzen.github.io/author/tobias-lenz/</loc>
     <lastmod>2020-12-06T12:33:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/tag/parliaments/</loc>
-    <lastmod>2021-01-26T15:01:09+00:00</lastmod>
   </url>
   
   <url>
@@ -210,21 +240,6 @@
   <url>
     <loc>https://thomaswinzen.github.io/publication/winzen-explaining-2016/</loc>
     <lastmod>2020-11-06T15:01:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/datasets/</loc>
-    <lastmod>2021-01-26T15:01:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/datasets/ipidata/</loc>
-    <lastmod>2021-01-26T15:01:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thomaswinzen.github.io/datasets/npdata/</loc>
-    <lastmod>2020-11-18T15:01:09+00:00</lastmod>
   </url>
   
   <url>
