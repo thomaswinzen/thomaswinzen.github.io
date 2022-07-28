@@ -5,7 +5,7 @@
     <link>https://thomaswinzen.github.io/publication/</link>
       <atom:link href="https://thomaswinzen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Thomas Winzen</copyright><lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Thomas Winzen</copyright><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thomaswinzen.github.io/media/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>The European Semester and Parliamentary Oversight Institutions Inside and Outside of the Euro Area</title>
-      <link>https://thomaswinzen.github.io/publication/winzen-eursem-2021/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/publication/winzen-eursem-2021/</guid>
+      <title>Democratic Backsliding and Decision-Making in the European Union: Eurosceptic Contestation?</title>
+      <link>https://thomaswinzen.github.io/publication/winzen-ucsdwp-2022/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/winzen-ucsdwp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does differentiated integration weaken parliamentary involvement? Evidence from the European Union’s interparliamentary conferences</title>
+      <link>https://thomaswinzen.github.io/publication/winzen-di-parliament-2022/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/winzen-di-parliament-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects</title>
       <link>https://thomaswinzen.github.io/publication/winzen-npreview-2021/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://thomaswinzen.github.io/publication/winzen-npreview-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The European Semester and Parliamentary Oversight Institutions Inside and Outside of the Euro Area</title>
+      <link>https://thomaswinzen.github.io/publication/winzen-eursem-2021/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/publication/winzen-eursem-2021/</guid>
       <description></description>
     </item>
     
