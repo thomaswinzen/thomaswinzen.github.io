@@ -5,12 +5,21 @@
     <link>https://thomaswinzen.github.io/tag/integration/</link>
       <atom:link href="https://thomaswinzen.github.io/tag/integration/index.xml" rel="self" type="application/rss+xml" />
     <description>integration</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Thomas Winzen</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Thomas Winzen</copyright><lastBuildDate>Fri, 20 Oct 2023 12:23:54 +0000</lastBuildDate>
     <image>
       <url>https://thomaswinzen.github.io/media/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_3.png</url>
       <title>integration</title>
       <link>https://thomaswinzen.github.io/tag/integration/</link>
     </image>
+    
+    <item>
+      <title>European Integration</title>
+      <link>https://thomaswinzen.github.io/project/eu/</link>
+      <pubDate>Fri, 20 Oct 2023 12:23:54 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/project/eu/</guid>
+      <description>&lt;p&gt;What explains institutional change in the EU? Can and should the EU be reformed to engage effectively and legitimately with the interests and capacities of the member states, neighbouring countries, and the multiple policy challenges Europe faces?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Differentiated European integration (EUDIFF1 &amp; EUDIFF2)</title>
@@ -24,15 +33,6 @@
 &lt;li&gt;Schimmelfennig, Frank, and Thomas Winzen. 2014. ‘Instrumental and Constitutional Differentiation in the European Union’. &lt;em&gt;Journal of Common Market Studies&lt;/em&gt; 52 (2): 354–70. &lt;a href=&#34;https://doi.org/10.1111/jcms.12103&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/jcms.12103&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Schimmelfennig, Frank, and Thomas Winzen. 2020. &lt;em&gt;Ever Looser Union? Differentiated Integration&lt;/em&gt;. Oxford: Oxford University Press.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>European Integration</title>
-      <link>https://thomaswinzen.github.io/project/eu/</link>
-      <pubDate>Fri, 06 Nov 2020 12:23:57 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/project/eu/</guid>
-      <description>&lt;p&gt;What explains institutional change in the EU? Can and should the EU be reformed to engage effectively and legitimately with the interests and capacities of the member states, neighbouring countries, and the multiple policy challenges Europe faces?&lt;/p&gt;
 </description>
     </item>
     

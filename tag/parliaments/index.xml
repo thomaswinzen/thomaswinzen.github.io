@@ -5,12 +5,21 @@
     <link>https://thomaswinzen.github.io/tag/parliaments/</link>
       <atom:link href="https://thomaswinzen.github.io/tag/parliaments/index.xml" rel="self" type="application/rss+xml" />
     <description>parliaments</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Thomas Winzen</copyright><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Thomas Winzen</copyright><lastBuildDate>Fri, 20 Oct 2023 12:23:55 +0000</lastBuildDate>
     <image>
       <url>https://thomaswinzen.github.io/media/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_3.png</url>
       <title>parliaments</title>
       <link>https://thomaswinzen.github.io/tag/parliaments/</link>
     </image>
+    
+    <item>
+      <title>Parliaments Beyond the State</title>
+      <link>https://thomaswinzen.github.io/project/parliaments/</link>
+      <pubDate>Fri, 20 Oct 2023 12:23:55 +0000</pubDate>
+      <guid>https://thomaswinzen.github.io/project/parliaments/</guid>
+      <description>&lt;p&gt;Can parliaments contribute to democratic and legitimate governance in the European Union and international organizations? When and why can we expect political actors to realize the democratic potential that parliaments might have? If they do, what are the political and policy consequences?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>International Parliamentary Institutions Dataset (IPIdata)</title>
@@ -40,15 +49,6 @@
 &lt;li&gt;Rittberger, Berthold, and Thomas Winzen. 2015. Parlamentarismus Nach Der Krise: Die Vertiefung Parlamentarischer Asymmetrie in Der Reformierten Wirtschafts- Und Währungsunion. &lt;em&gt;Politische Vierteljahresschrift&lt;/em&gt; 56 (3): 430–56.&lt;/li&gt;
 &lt;li&gt;Winzen, Thomas. 2021. The Institutional Position of National Parliaments in the European Union: Developments, Explanations, Effects. &lt;em&gt;Journal of European Public Policy&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parliaments Beyond the State</title>
-      <link>https://thomaswinzen.github.io/project/parliaments/</link>
-      <pubDate>Sat, 07 Nov 2020 12:23:53 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/project/parliaments/</guid>
-      <description>&lt;p&gt;Can parliaments contribute to democratic and legitimate governance in the European Union and international organizations? When and why can we expect political actors to realize the democratic potential that parliaments might have? If they do, what are the political and policy consequences?&lt;/p&gt;
 </description>
     </item>
     
