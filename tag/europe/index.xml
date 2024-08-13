@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eu | Thomas Winzen</title>
-    <link>https://thomaswinzen.github.io/tag/eu/</link>
-      <atom:link href="https://thomaswinzen.github.io/tag/eu/index.xml" rel="self" type="application/rss+xml" />
-    <description>eu</description>
+    <title>europe | Thomas Winzen</title>
+    <link>https://thomaswinzen.github.io/tag/europe/</link>
+      <atom:link href="https://thomaswinzen.github.io/tag/europe/index.xml" rel="self" type="application/rss+xml" />
+    <description>europe</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Thomas Winzen</copyright><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thomaswinzen.github.io/media/icon_hu02b2264248573ab4fcd6898e7f9e3b4f_17401_512x512_fill_lanczos_center_3.png</url>
-      <title>eu</title>
-      <link>https://thomaswinzen.github.io/tag/eu/</link>
+      <title>europe</title>
+      <link>https://thomaswinzen.github.io/tag/europe/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://thomaswinzen.github.io/project/eu/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://thomaswinzen.github.io/project/eu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Democratic Backsliding &amp; Autocratization in Europe and beyond</title>
-      <link>https://thomaswinzen.github.io/project/backsliding/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://thomaswinzen.github.io/project/backsliding/</guid>
       <description></description>
     </item>
     
