@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thomaswinzen.github.io/tag/eu/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
+    <loc>https://thomaswinzen.github.io/publication-type/2/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thomaswinzen.github.io/publication_types/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thomaswinzen.github.io/publication/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thomaswinzen.github.io/publication/matsunaga-rrpp-2024/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thomaswinzen.github.io/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thomaswinzen.github.io/tag/europe/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
@@ -20,17 +32,11 @@
     <loc>https://thomaswinzen.github.io/tags/</loc>
     <lastmod>2024-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thomaswinzen.github.io/</loc>
-    <lastmod>2024-08-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thomaswinzen.github.io/tag/parliaments/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thomaswinzen.github.io/project/parliaments/</loc>
     <lastmod>2024-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thomaswinzen.github.io/publication-type/2/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thomaswinzen.github.io/tag/backsliding/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
@@ -38,13 +44,10 @@
     <loc>https://thomaswinzen.github.io/project/backsliding/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://thomaswinzen.github.io/tag/eu/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thomaswinzen.github.io/publication/winzen-backsliding-intergov-2023/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thomaswinzen.github.io/publication_types/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thomaswinzen.github.io/publication/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thomaswinzen.github.io/publication/winzen-diexperience-2023/</loc>
